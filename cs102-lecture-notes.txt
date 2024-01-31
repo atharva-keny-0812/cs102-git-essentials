@@ -1,0 +1,5 @@
+git clone - To clone your repository to local 
+git status - To check how many files have been modified and are needed to be commited
+git init - To create a github repository on local device
+git commit - To commit the changes made in the repo and waiting to be pushed
+git add . - To add files to the repo to be committed
